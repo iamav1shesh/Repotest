@@ -1,0 +1,20 @@
+
+.product{
+    background-color: yellow;
+    border: 1px solid;
+    text-align: center;
+}
+
+
+.adcd{
+    background-color: black;
+    color: white;
+}
+
+
+.adcd:hover{
+
+    background-color: white;
+    color: greenyellow;
+}
+
